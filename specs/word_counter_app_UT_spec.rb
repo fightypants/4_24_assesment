@@ -1,6 +1,9 @@
 require ('rspec')
-require ('word_counter_app')
+require ('./lib/word_counter')
 
-describe do
-  end
-end
+
+
+describe("String#word_counter") do
+  it("Counts how many times we get a specifc word") do
+    expect("hello kha hello".coin_app()).to(eq(2))
+ end
