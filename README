@@ -1,0 +1,38 @@
+## Synopsis
+
+This project sets out to count the words in sentences input by users. Gem list used for this project are the following.
+
+gem('rspec')
+gem('capybara')
+gem('pry')
+gem('sinatra')
+gem('sinatra-contrib')
+
+## Code Example
+
+
+
+## Motivation
+
+The purpose of this project is to learn how to code at Epicodus!
+
+## Installation
+
+https://stark-tor-5710.herokuapp.com/
+
+## API Reference
+
+Ran out of time
+
+## Tests
+
+
+Ran out of time
+
+## Contributors
+
+Ran out of time
+
+## License
+
+Ran out of time
