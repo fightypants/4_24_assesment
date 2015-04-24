@@ -10,8 +10,8 @@ require ('pry')
       counts = Hash.new 0
       sentence = self.split
       sentence.each do |word|
-        counts[word] += 1
+      counts[word] += 1
       end
-      score = counts.fetch()
-      end
+      value = counts
+    end
   end
